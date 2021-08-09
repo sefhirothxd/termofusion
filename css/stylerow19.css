@@ -953,7 +953,7 @@ img {
 	width: 100%;
 }
 #aa-slider .aa-slider-area {
-	background-color: rgba(0, 255, 0, 0.3);
+	background-color: transparent;
 	display: inline;
 	float: left;
 	/*height:100%;*/
